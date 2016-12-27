@@ -1,0 +1,24 @@
+.jumbotron h1 {
+	font-family: 'Bauhaus 93' , sans-serif;
+	font-weight: 300;
+}
+.col-sm-9 {
+	font-family: 'georgia',sans-serif;
+	flood-color: #00CCFF;
+
+}
+section .row h3 {
+	font-family: 'georgia',sans-serif;
+
+}
+section .row p {
+	font-size:  17px;
+	font-family: 'verdana',sans-serif;
+	font-style: normal;
+	font-weight: normal;
+}
+section .row table {
+	font-size: 17px;
+	font-style: normal;
+	font-weight: normal;
+}
